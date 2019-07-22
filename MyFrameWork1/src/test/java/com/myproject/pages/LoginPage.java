@@ -9,7 +9,7 @@ public class LoginPage {
 	
 	WebDriver driver;
 	
-	//This to test new commit from Sathya
+	//This to test new commit from Karthik
 
 	public LoginPage(WebDriver ldriver)
 	{
@@ -29,7 +29,4 @@ public class LoginPage {
 			loginButton.click();
 		}
 		
-	
-	
-	
-}
+	}
